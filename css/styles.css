@@ -1,0 +1,30 @@
+/* CSS Document */
+body 
+{
+background-color:#EAF6F6;
+}
+
+h1
+{ color: #FF6600 }
+
+
+h3
+{
+color: #999933
+}
+
+hr 
+{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+	color:#999933;
+}
